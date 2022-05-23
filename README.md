@@ -1,4 +1,4 @@
-👋 Hi there, I'm Collins
+👋 Hi there, I'm Collins...
 
 <!--
 **okaforcollins/okaforcollins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
